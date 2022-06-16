@@ -1,3 +1,5 @@
+## Descargo y procedo a revisar y calificar.
+
 from usuarios import acciones
 from citas import acciones as accionesCitas
 
